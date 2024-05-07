@@ -24,7 +24,7 @@ O software desenvolvido neste projeto é uma aplicação Ruby que oferece a func
 3. O arquivo contendo o registro da tradução será criado no diretório /translations do projeto, utilizando a data e hora como parte do nome do arquivo.
 
 ## Autor
-- Alexandre Kumagae
+- Alexandre Kumagae.
 
 ## Links Úteis
 - [Curso de Ruby Puro do One Bit Code](https://www.youtube.com/playlist?list=PLdDT8if5attEOcQGPHLNIfnSFiJHhGDOZ)
